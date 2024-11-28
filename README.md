@@ -19,6 +19,10 @@ This course provides a hands-on, structured approach to mastering backend develo
 
 Whether you’re aiming to start a career in tech or broaden your existing skill set, this course is a perfect introduction to the core competencies of backend development.
 
+## Prerequisites  
+
+To take this course, you’ll need a computer or laptop with at least **8GB of RAM**, a **dual-core processor**, and **10GB of free storage** to run development tools smoothly. You must also be able to install and manage software on your machine, including setting up a Python development environment and a PostgreSQL database. No prior programming experience is required, but basic computer proficiency is highly recommended.  
+
 <hr>
 
 **Disclaimer** - This course content has been reviewed and proofread by ChatGPT (OpenAI, Model Version: GPT-4, November 2024) to ensure clarity, accuracy, and structure.
