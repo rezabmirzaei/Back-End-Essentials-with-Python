@@ -19,5 +19,6 @@ This course provides a hands-on, structured approach to mastering backend develo
 
 Whether you’re aiming to start a career in tech or broaden your existing skill set, this course is a perfect introduction to the core competencies of backend development.
 
-**Disclaimer**
-This course content has been reviewed and proofread by ChatGPT (OpenAI, Model Version: GPT-4, November 2024) to ensure clarity, accuracy, and structure.
+<hr>
+
+**Disclaimer** - This course content has been reviewed and proofread by ChatGPT (OpenAI, Model Version: GPT-4, November 2024) to ensure clarity, accuracy, and structure.
