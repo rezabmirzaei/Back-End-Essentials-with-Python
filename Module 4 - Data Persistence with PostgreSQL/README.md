@@ -3,7 +3,7 @@
 - **Content Overview**:
   - Introduction to relational databases and PostgreSQL.
   - Setting up PostgreSQL and connecting to it with Python.
-  - Perform CRUD operations (Create, Read, Update, Delete) using SQLAlchemy ORM.
+  - Perform CRUD operations (Create, Read, Update, Delete) on the database.
 
 - **Key Activities**:
   - Set up a PostgreSQL database and integrate it with Flask.
