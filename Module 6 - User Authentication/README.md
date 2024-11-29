@@ -1,11 +1,11 @@
-# Module 6: User Authentication
+# Module 6: User Authentication and Security
 
 - **Content Overview**:
-  - Introduction to authentication and authorization concepts.
-  - Implement session-based authentication using Flask-Login.
-  - Explore best practices for securing backend applications.
+  - Introduction to HTTP security basics, including secure communication between clients and servers.
+  - Implement user authentication using **Firebase Authentication** to manage user accounts securely.
+  - Explore best practices for securing backend applications and protecting sensitive data.
 
 - **Key Activities**:
-  - Add registration and login functionality to a Flask app.
-  - Secure routes and validate user sessions.
-  - Debug and test the authentication flow.
+  - Set up Firebase Authentication for user registration and login.
+  - Secure routes by validating user sessions using Firebase tokens.
+  - Debug and test the authentication flow in a backend application.
