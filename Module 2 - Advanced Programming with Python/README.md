@@ -9,5 +9,5 @@
 - **Key Activities**:  
   - Build small applications demonstrating OOP principles.
   - Solve debugging exercises to improve error-handling skills.
-  - Experiment with Python libraries for backend tasks like `os` and `datetime`.
+  - Experiment with Python libraries for backend tasks.
   - Create a Git repository, commit changes, and push to a GitHub repository.
