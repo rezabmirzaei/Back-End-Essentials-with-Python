@@ -8,7 +8,7 @@ Backend development focuses on building and managing the **server-side logic** o
 - Managing databases to store and retrieve user data.
 - Building secure systems for user authentication.
 
-Jobs in backend development include [TODO - ADD EXAMPLES], among others. These roles are in high demand across industries, offering exciting career opportunities.
+As a backend developer, you will solve problems and implement solutions in a wide range of industries, such as finance, healthcare, entertainment, and education. These roles are in high demand, offering opportunities to work on systems we rely on every day.
 
 ## What You’ll Learn
 This course provides a hands-on, structured approach to mastering backend development. By the end, you’ll have the skills to:  
