@@ -6,7 +6,7 @@ This comprehensive 7.5-credit course is designed to equip you with the foundatio
 
 Or view it directly below:
 
-<iframe src="https://drive.google.com/file/d/1NZ_FsukyeQ4V7CsyF6Evk1zlA03KgfW1/preview" width="640" height="480" allow="autoplay"></iframe>
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1NZ_FsukyeQ4V7CsyF6Evk1zlA03KgfW1/preview)
 
 ## Why Backend Development?
 Backend development focuses on building and managing the **server-side logic** of applications. Whether it’s handling millions of user requests, managing secure authentication, or ensuring data is stored and retrieved efficiently, backend development is at the core of the tech industry. Examples include:
