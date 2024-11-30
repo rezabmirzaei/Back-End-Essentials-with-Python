@@ -2,6 +2,12 @@
 
 This comprehensive 7.5-credit course is designed to equip you with the foundational skills and knowledge required to excel in backend development. Backend developers are the backbone of modern technology, creating systems that power applications, process data, and ensure reliable operation.
 
+[Watch a short introduction video](https://drive.google.com/file/d/1NZ_FsukyeQ4V7CsyF6Evk1zlA03KgfW1/preview)
+
+Or view it directly below:
+
+<iframe src="https://drive.google.com/file/d/1NZ_FsukyeQ4V7CsyF6Evk1zlA03KgfW1/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Why Backend Development?
 Backend development focuses on building and managing the **server-side logic** of applications. Whether it’s handling millions of user requests, managing secure authentication, or ensuring data is stored and retrieved efficiently, backend development is at the core of the tech industry. Examples include:
 - Creating APIs that allow apps to communicate.
