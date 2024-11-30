@@ -1,4 +1,4 @@
-# Back End Essentials with Python -  Digital Learning Experience Outline
+# Backend Essentials with Python -  Digital Learning Experience Outline
 
 This comprehensive 7.5-credit course is designed to equip you with the foundational skills and knowledge required to excel in backend development. Backend developers are the backbone of modern technology, creating systems that power applications, process data, and ensure reliable operation.
 
